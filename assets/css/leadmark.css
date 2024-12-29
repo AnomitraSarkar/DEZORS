@@ -11418,6 +11418,10 @@ textarea.form-control {
   }
 }
 
+#dark{
+  color:#1b1b1b
+}
+
 .header {
   position: relative;
   height: 100vh;
@@ -11496,7 +11500,7 @@ textarea.form-control {
 .header.components-header {
   max-height: 450px !important;
   height: 450px;
-  dispaly: none;
+  display: none;
   background-position: center -140px;
 }
 
