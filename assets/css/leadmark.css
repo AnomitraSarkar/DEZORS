@@ -4607,6 +4607,7 @@ input[type="button"].btn-block {
   padding-bottom: 0.3125rem;
   margin-right: 1rem;
   font-size: 1.25rem;
+  /* width: 100px; */
   line-height: inherit;
   white-space: nowrap;
 }
@@ -11240,6 +11241,8 @@ textarea.form-control {
 .navbar.custom-navbar .nav-link:hover {
   color: #fff;
 }
+
+
 
 .navbar.custom-navbar.affix {
   padding-top: 0.4rem;
