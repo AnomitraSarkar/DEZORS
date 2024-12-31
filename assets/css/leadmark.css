@@ -20,14 +20,14 @@
   --pink: #e83e8c;
   --red: #eb4d4b;
   --orange: #fd7e14;
-  --yellow: #EE5A24;
+  --yellow: #ff7700;
   --green: #6ab04c;
   --teal: #00cec9;
   --cyan: #1289A7;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #1b1b1b;
-  --primary: #ff6e42;
+  --primary: #ff7700;
   --secondary: #6c757d;
   --success: #6ab04c;
   --info: #1289A7;
@@ -10807,7 +10807,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #ff6e42 !important;
+  color: #ff7700 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
