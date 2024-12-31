@@ -166,6 +166,10 @@ small {
   font-size: 80%;
 }
 
+.btnhover:hover{
+  color: black !important
+}
+
 sub,
 sup {
   position: relative;
