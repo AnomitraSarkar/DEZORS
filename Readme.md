@@ -6,6 +6,8 @@ API key security
 Cleanup Backend Codes
 Beta Testing
 Push to Development
+Page Scroll hightlight anim
+Color Palette
 
 Dezors | Innovative IT Consultancy for Modern Businesses
 
