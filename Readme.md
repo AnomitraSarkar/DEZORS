@@ -1,15 +1,16 @@
-Backend Connection to Email
-Cleanup Frontend Codes
-Compress/Cleanup Assets
-Loading
-API key security
-Cleanup Backend Codes
-Beta Testing
-Push to Development
-Page Scroll hightlight anim
-Color Palette
+# TODO
 
-Dezors | Innovative IT Consultancy for Modern Businesses
+- [ ] Backend Connection to Email
+- [ ] Compress/Cleanup Assets
+- [ ] Loading
+- [ ] API key security
+- [ ] Cleanup Backend Codes
+- [ ] Beta Testing
+- [ ] Push to Development
+- [ ] Page Scroll hightlight anim
+- [ ] Color Palette
+
+# Dezors | Innovative IT Consultancy for Modern Businesses
 
 At Dezors, we empower businesses to navigate the digital landscape with cutting-edge IT solutions tailored to their unique needs. Whether you're a startup looking to scale or an established company aiming to enhance efficiency, we are your dedicated technology partner.
 
@@ -24,5 +25,5 @@ At Dezors, we don’t just provide IT services; we deliver innovative strategies
 
 Let’s build your future together. Connect with us today and discover how Dezors can drive your business forward!
 
-🔗 Visit our website: [Insert Website Link]
-📧 Contact us: [Insert Email Address]
+🔗 Visit our website: dezors.com
+📧 Contact us: support@dezors.com
