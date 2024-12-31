@@ -25,5 +25,9 @@ At Dezors, we don’t just provide IT services; we deliver innovative strategies
 
 Let’s build your future together. Connect with us today and discover how Dezors can drive your business forward!
 
-🔗 Visit our website: dezors.com
-📧 Contact us: support@dezors.com
+🔗 Visit our website: 
+[dezors.com](https://dezors.com)
+
+📧 Contact us: 
+dey@dezors.com
+sarkar@dezors.com 
