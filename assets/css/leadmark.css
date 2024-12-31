@@ -55,6 +55,7 @@
   user-select: all;
 }
 
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -75,6 +76,21 @@ body {
   color: #444;
   text-align: left;
   background-color: #fff;
+}
+
+.affix-top > .container> .navbar-brand > .logocontainer{
+  height: 50px;
+  width: 50px;
+  background-image: url("../imgs/logodark.svg");
+  background-position: center;
+  background-size: cover;
+}
+.affix > .container> .navbar-brand > .logocontainer{
+  height: 50px;
+  width: 50px;
+  background-image: url("../imgs/logolight.svg");
+  background-position: center;
+  background-size: cover;
 }
 
 [tabindex="-1"]:focus {
