@@ -1,7 +1,3 @@
-Logo  
-ScrollBar
-Picture Update
-Content Update
 Backend Connection to Email
 Cleanup Frontend Codes
 Compress/Cleanup Assets
