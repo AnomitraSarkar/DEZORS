@@ -13,6 +13,22 @@
 */
 
 // smooth scroll
+$.get("../../loader.html", function(data){
+    $("#loading").replaceWith(data);
+  });
+  
+
+  $(window).on('load', function(){
+    setTimeout(removeLoader, 1500); //wait for page load PLUS two seconds.
+  });
+  function removeLoader(){
+      $( ".loader-wrapper" ).fadeOut(500, function() {
+        // fadeOut complete. Remove the loading div
+        $( ".loader-wrapper" ).remove(); //makes page more lightweight 
+    });   
+  }
+  
+
 $(document).ready(function(){
     $(".navbar .nav-link").on('click', function(event) {
 
@@ -32,21 +48,6 @@ $(document).ready(function(){
 });
 
 
-$.get("../../loader.html", function(data){
-    $("#loading").replaceWith(data);
-  });
-  
-
-  $(window).on('load', function(){
-    setTimeout(removeLoader, 2000); //wait for page load PLUS two seconds.
-  });
-  function removeLoader(){
-      $( ".loader-wrapper" ).fadeOut(500, function() {
-        // fadeOut complete. Remove the loading div
-        $( ".loader-wrapper" ).remove(); //makes page more lightweight 
-    });   
-  }
-  
 
 
 
