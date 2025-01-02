@@ -1,8 +1,5 @@
 # TODO
-
-- [ ] Backend Connection to Email
-- [ ] Compress/Cleanup Assets
-- [ ] Loading
+- [ ] Compress Assets
 - [ ] API key security
 - [ ] Cleanup Backend Codes
 - [ ] Beta Testing
