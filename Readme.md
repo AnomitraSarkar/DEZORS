@@ -1,7 +1,6 @@
 ### TODO
 
-- [ ] Resolve Local Copywrites
-- [ ] Clean up Local Unused Codes
+- [ ] Add License <leadmark.css>
 - [ ] Compress Assets
 - [ ] API key security
 - [ ] Cleanup Backend Codes
