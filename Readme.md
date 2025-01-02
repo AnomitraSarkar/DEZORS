@@ -1,4 +1,7 @@
 ### TODO
+
+- [ ] Resolve Local Copywrites
+- [ ] Clean up Local Unused Codes
 - [ ] Compress Assets
 - [ ] API key security
 - [ ] Cleanup Backend Codes
