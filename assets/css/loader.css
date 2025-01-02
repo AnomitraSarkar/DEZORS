@@ -9,16 +9,20 @@
     position: fixed;
     top: 0;
     left: 0;
+    opacity: 0;
     background-color: whitesmoke;
     display: block;
     justify-content: center;
     align-items: center;
     z-index: 999999999;
     overflow: hidden;
+    /* visibility: 0%; */
+    animation: hide 5s linear;
 }
 
 
 .loader {
+  
   position: absolute;
   height: 100px;
   width: 100px;
@@ -56,5 +60,15 @@
 @keyframes bottomy {
   to {
     top: 50px;
+  }
+}
+
+
+@keyframes hide{
+  from{
+    opacity: 100%;
+  }
+  to{
+    opacity: 0;
   }
 }
