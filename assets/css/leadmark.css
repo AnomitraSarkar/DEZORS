@@ -11456,6 +11456,7 @@ textarea.form-control {
   color:#1b1b1b
 }
 
+
 .header {
   position: relative;
   height: 100vh;
@@ -11464,6 +11465,18 @@ textarea.form-control {
   background-size: cover;
   overflow: hidden;
 }
+
+#article1header{
+  background: url(../imgs/blog-1.jpg) no-repeat center center fixed;
+}
+#article2header{
+  background: url(../imgs/blog-2.jpg) no-repeat center center fixed;
+}
+#article3header{
+  background: url(../imgs/blog-3.jpg) no-repeat center center fixed;
+}
+
+
 
 .header .overlay {
   position: absolute;
@@ -11586,6 +11599,9 @@ textarea.form-control {
 
 .section:nth-child(even) {
   background: #f5f8fc;
+}
+.section-article:nth-child(even) {
+  background: #ffffff;
 }
 
 .section .section-devider {
