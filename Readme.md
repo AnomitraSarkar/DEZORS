@@ -25,4 +25,4 @@ Let’s build your future together. Connect with us today and discover how Dezor
 
 📧 Contact us: 
 dey@dezors.com    | +91 72407 79301
-sarkar@dezors.com | +91 
+sarkar@dezors.com | +91 89558 37982
