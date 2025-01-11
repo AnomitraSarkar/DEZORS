@@ -24,5 +24,5 @@ Let’s build your future together. Connect with us today and discover how Dezor
 [dezors.com](https://dezors.com)
 
 📧 Contact us: 
-dey@dezors.com
-sarkar@dezors.com 
+dey@dezors.com    | +91 72407 79301
+sarkar@dezors.com | +91 
